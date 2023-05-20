@@ -1,0 +1,18 @@
+@import 'sidebar.css';
+@import 'basic-area.css';
+@import 'section-menu.css';
+
+
+
+body {
+    margin: 0;
+    font-family: 'Barlow', sans-serif;
+    overflow: hidden;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    
+}
+
